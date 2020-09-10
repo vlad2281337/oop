@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\oopALL\\02\\lab2\\lab2.csproj",
-      "projectName": "lab2",
-      "projectPath": "C:\\Users\\User\\Desktop\\oopALL\\02\\lab2\\lab2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\oopALL\\02\\lab2\\01.csproj",
+      "projectName": "01",
+      "projectPath": "C:\\Users\\User\\Desktop\\oopALL\\02\\lab2\\01.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Desktop\\oopALL\\02\\lab2\\obj\\",
       "projectStyle": "PackageReference",
