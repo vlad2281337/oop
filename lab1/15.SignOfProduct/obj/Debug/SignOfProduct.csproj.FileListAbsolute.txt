@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.pdb

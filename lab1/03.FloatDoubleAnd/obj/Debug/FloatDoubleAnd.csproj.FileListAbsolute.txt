@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\bin\Debug\FloatDoubleAnd.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\bin\Debug\FloatDoubleAnd.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\bin\Debug\FloatDoubleAnd.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\obj\Debug\FloatDoubleAnd.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\obj\Debug\FloatDoubleAnd.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\obj\Debug\FloatDoubleAnd.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\FloatDoubleAnd\obj\Debug\FloatDoubleAnd.pdb

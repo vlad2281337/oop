@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\obj\Debug\Big and Odd.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\obj\Debug\Big and Odd.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Big and Odd\obj\Debug\Big and Odd.pdb

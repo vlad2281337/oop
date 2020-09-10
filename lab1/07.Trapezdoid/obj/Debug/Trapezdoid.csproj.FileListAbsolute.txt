@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\bin\Debug\Trapezdoid.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\bin\Debug\Trapezdoid.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\bin\Debug\Trapezdoid.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\obj\Debug\Trapezdoid.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\obj\Debug\Trapezdoid.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\Trapezdoid\obj\Debug\Trapezdoid.pdb

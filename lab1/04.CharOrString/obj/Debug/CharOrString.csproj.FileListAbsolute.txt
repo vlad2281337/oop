@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\bin\Debug\CharOrString.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\bin\Debug\CharOrString.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\bin\Debug\CharOrString.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\obj\Debug\CharOrString.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\obj\Debug\CharOrString.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\obj\Debug\CharOrString.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\CharOrString\obj\Debug\CharOrString.pdb

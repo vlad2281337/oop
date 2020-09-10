@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\bin\Debug\02.PrimitiveDataTypesAndVariables.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\bin\Debug\02.PrimitiveDataTypesAndVariables.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\bin\Debug\02.PrimitiveDataTypesAndVariables.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\obj\Debug\02.PrimitiveDataTypesAndVariables.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\obj\Debug\02.PrimitiveDataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\obj\Debug\02.PrimitiveDataTypesAndVariables.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\02.PrimitiveDataTypesAndVariables\obj\Debug\02.PrimitiveDataTypesAndVariables.pdb

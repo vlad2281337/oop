@@ -1,0 +1,6 @@
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\bin\Debug\NumberAsDayOfWeek.exe.config
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\bin\Debug\NumberAsDayOfWeek.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\bin\Debug\NumberAsDayOfWeek.pdb
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\obj\Debug\NumberAsDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\obj\Debug\NumberAsDayOfWeek.exe
+C:\Users\CiCadmin\Desktop\Томка ООП\0.1.ООП\IntroToProgrammingHomework\NumberAsDayOfWeek\obj\Debug\NumberAsDayOfWeek.pdb
