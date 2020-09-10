@@ -6,7 +6,8 @@ namespace _01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Blue");
+            Console.ReadKey();
         }
     }
 }
