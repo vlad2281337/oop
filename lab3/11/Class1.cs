@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _06
+namespace _11
 {
-    class Employe
+    class Class1
     {
-       
     }
 }
